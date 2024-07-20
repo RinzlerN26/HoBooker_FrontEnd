@@ -10,6 +10,7 @@ The frontend for a MERN based property booking web app.
 ### Prerequisites
 
 * npm
+  
   ```sh
   npm install npm@latest -g
   ```
