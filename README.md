@@ -1,19 +1,57 @@
 # HoBooker_FrontEnd
 
-## Available Scripts
+The frontend for a MERN based property booking web app.
 
-### `npm start`
+### Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+* ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000)
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
+1. Clone the repo.
+   
+   ```sh
+   git clone https://github.com/RinzlerN26/News_Aggregator.git
+   ```
+   
+2. Install npm packages.
+   ```sh
+   npm install
+   ```
+   
+3. Run the application.
+    ```sh
+   npm run start
+   ```  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
