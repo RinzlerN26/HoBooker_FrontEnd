@@ -5,7 +5,7 @@ The frontend for a MERN based property booking web app.
 ### Built With
 
 * ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-* ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000)
+* ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000)
 
 ### Prerequisites
 
